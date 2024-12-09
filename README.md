@@ -51,8 +51,8 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 - Identified factors such as job satisfaction, hours worked, and number of projects as significant indicators of employee turnover.
 - The results can help management identify at-risk employees and take necessary actions to improve retention.
 
-**GitHub Repository:**  
-
+**GitHub Pages - Capstone Project: Employee Turnover Prediction**  
+[Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/capstone_project/)
 ---
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLeData)
