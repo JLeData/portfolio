@@ -53,6 +53,8 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 
 **GitHub Pages - Capstone Project: Employee Turnover Prediction**  
 [Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/capstone_project/)
+
+[Executive Summary](https://jledata.github.io/capstone_project/image/executive_summary.jpg)
 ---
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLeData)
