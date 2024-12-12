@@ -42,9 +42,9 @@ This portfolio highlights my growth as a data analyst, turning data into actiona
 This project is part of my Coursera Data Analytics Advanced course capstone, where I focused on predicting employee turnover at Salifort Motors using a dataset provided by Coursera. The goal was to identify patterns and factors that influence whether an employee stays or leaves, enabling the organization to take proactive steps in reducing turnover.
 
 **Skills/Tools Used:**
-- Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Python (Pandas, Numpy, Scikit-learn)
 - Jupyter Notebook
-- Data visualization (Matplotlib)
+- Data visualization (Matplotlib, Seaborn)
 - Logistic Regression (for binary classification)
 
 **Key Insights/Results:**
