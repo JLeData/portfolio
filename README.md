@@ -12,21 +12,26 @@ This portfolio highlights my growth as a data analyst, turning data into actiona
 ## **Skills**
 
 **Programming:**
-- Python (Intermediate), Pandas, Matplotlib, NumPy, Seaborn
+- Python (Intermediate)
 - SQL (Intermediate)
+  
+**Data Science:** 
+- Pandas
+- NumPy
+- Scikit-learn 
 
-**Machine Learning:**
-- Scikit-learn
-
-**Software:**
-- GitHub
-- Google Workspace (Google Sheets)
-- MS Office Suite (Excel, PowerPoint)
-- Jupyter Notebook
-
-**Data Visualization:**
+**Data Visualization:** 
 - Plotly
-- Tableau
+- Matplotlib
+- Seaborn
+- Tableau 
+
+**Tools:** 
+- GitHub
+- Jupyter Notebook
+- Google Sheets
+- Excel
+- PowerPoint
 
 **Soft Skills:**
 - Problem-solving
