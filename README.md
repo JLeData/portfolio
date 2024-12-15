@@ -58,7 +58,7 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 - The results can help management identify at-risk employees and take necessary actions to improve retention.
 
 **GitHub Pages - Capstone Project: Employee Turnover Prediction**  
-- [Executive Summary](https://jledata.github.io//portfolio/capstone/image/executive_summary.jpg)
+- [Executive Summary](https://jledata.github.io/portfolio/capstone/image/executive_summary.jpg)
 - [Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/portfolio/capstone/)
 
 ---
