@@ -7,7 +7,7 @@ This portfolio highlights my growth as a data analyst, turning data into actiona
 
 ## Education
 - **Bachelor of Science in Business Administration (BSBA), Accounting**
-- **Associate’s Degree in Accounting** 
+- **Associate Degree in Accounting** 
 
 ## **Skills**
 
@@ -58,8 +58,8 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 - The results can help management identify at-risk employees and take necessary actions to improve retention.
 
 **GitHub Pages - Capstone Project: Employee Turnover Prediction**  
-[Executive Summary](https://jledata.github.io/capstone_project/image/executive_summary.jpg) |
-[Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/capstone_project/)
+- [Executive Summary](https://jledata.github.io/capstone_project/image/executive_summary.jpg)
+- [Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/capstone_project/)
 
 ---
 ## Connect with Me
