@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-This portfolio highlights my growth as a data analyst, turning data into actionable insights through each project. By tackling challenges with fresh perspectives and collaborating with stakeholders, I continually build my skills and knowledge.
+Hey! I’m Jordan, a data analyst who’s all about growth and learning. I switched from accounting after a college project sparked my passion for data. I love solving problems and finding creative ways to approach data, always looking for new insights and techniques. Every project is an opportunity to learn and push my limits.
 
 ## Certifications
 - **Google Advanced Data Analytics Professional Certificate**
