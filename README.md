@@ -42,6 +42,32 @@ This portfolio highlights my growth as a data analyst, turning data into actiona
 
 ## Projects
 
+#### **Project Dool: OSRS Video Performance Analysis**
+**Description:**
+This project involved analyzing video data from OSRS content creators to help a small content creator optimize their strategy. Key areas of focus included:
+
+- Video Length Optimization: Identifying the ideal video length for better viewer retention.
+- Title Strategy for Episodic Content: Testing the impact of episodic titling on viewer retention.
+- Upload and Content Scheduling: Analyzing upload timing and frequency to maintain consistent engagement.
+
+The insights provided helped the creator refine their content strategy and reach a broader audience.
+
+**Skills/Tools Used:**
+- Python (Pandas, Numpy, re(Regular Expressions))
+- Jupyter Notebook
+- Data visualization (Matplotlib, Seaborn)
+- Exploratory Data Analysis (EDA)
+- Data cleaning and preprocessing (SQL)
+
+**Key Insights/Results:**
+
+- Ideal video length: 10-26 minutes, with 14-16 minutes being optimal for engagement, and up to 26 minutes providing flexibility for more content.
+- Found that episodic titling boosts viewer retention.
+- Improved upload schedule to align with other content creators for consistent engagement.
+
+**GitHub Pages - Project Dool EDA** 
+- [Summarized EDA](https://jledata.github.io/portfolio/dool_eda/)
+
 #### **Capstone Project: Employee Turnover Prediction**
 **Description:**  
 This project is part of my Coursera Data Analytics Advanced course capstone, where I focused on predicting employee turnover at Salifort Motors using a dataset provided by Coursera. The goal was to identify patterns and factors that influence whether an employee stays or leaves, enabling the organization to take proactive steps in reducing turnover.
