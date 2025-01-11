@@ -66,7 +66,7 @@ The insights provided helped the creator refine their content strategy and reach
 - Improved upload schedule to align with other content creators for consistent engagement.
 
 **GitHub Pages - Project Dool EDA** 
-- [Summarized EDA](https://jledata.github.io/portfolio/dool_eda/)
+- [Summarized EDA](https://jledata.github.io/portfolio/dool_eda/pf_eda.html)
 
 #### **Capstone Project: Employee Turnover Prediction**
 **Description:**  
