@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-Hey! I’m Jordan, a data analyst who’s all about growth and learning. I switched from accounting after a college project sparked my passion for data. I love solving problems and finding creative ways to approach data, always looking for new insights and techniques. Every project is an opportunity to learn and push my limits.
+Hey! I’m Jordan. I started in accounting because I liked working with numbers, but a college project sparked my interest in data analytics. Through my work as a content analyst, I discovered I enjoy efficiency, problem-solving, organization, and min/maxing—aspects that drew me to inventory management. I’m looking to gain hands-on experience and pursue certifications to continue developing my skills and career. This is my portfolio, where I work on projects to deepen my expertise in inventory management.
 
 ## Certifications
 - **Google Advanced Data Analytics Professional Certificate**
