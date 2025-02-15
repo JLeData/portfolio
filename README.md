@@ -42,7 +42,7 @@ Hey! I’m Jordan. I started in accounting because I liked working with numbers,
 
 ## Projects
 
-#### **Project Dool: OSRS Video Performance Analysis**
+### **Project Dool: OSRS Video Performance Analysis**
 **Description:**
 This project involved analyzing video data from OSRS content creators to help a small content creator optimize their strategy. Key areas of focus included:
 
@@ -68,7 +68,7 @@ The insights provided helped the creator refine their content strategy and reach
 **GitHub Pages - Project Dool EDA** 
 - [Summarized EDA](https://jledata.github.io/portfolio/dool_eda/pf_eda.html)
 
-#### **Capstone Project: Employee Turnover Prediction**
+### **Capstone Project: Employee Turnover Prediction**
 **Description:**  
 This project is part of my Coursera Data Analytics Advanced course capstone, where I focused on predicting employee turnover at Salifort Motors using a dataset provided by Coursera. The goal was to identify patterns and factors that influence whether an employee stays or leaves, enabling the organization to take proactive steps in reducing turnover.
 
@@ -87,6 +87,17 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 - [Executive Summary](https://jledata.github.io/portfolio/capstone/image/executive_summary.jpg)
 - [Full Capstone Project (EDA & Machine Learning Model)](https://jledata.github.io/portfolio/capstone/)
 
+### **100 ARAM Games Dashboard (Tableau Visual)**
+**Description:**
+A fun Tableau project visualizing data from 100 ARAM games in League of Legends. The dataset was collected using the Riot API, and the dashboard showcases key game statistics, champion usage, and performance trends.
+
+**Skill/Tools Used:**
+- Python (Riot API)
+- Tableau
+
+**Link to visual**
+- [Tableau Visual](https://public.tableau.com/app/profile/jordan.le6101/viz/QrowninAramGames/FinalDash)
+  
 ---
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLeData)
