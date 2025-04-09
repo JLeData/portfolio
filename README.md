@@ -26,6 +26,9 @@ Hey! I’m Jordan. I got into accounting because I liked working with numbers, b
 - Seaborn
 - Tableau 
 
+**Data Scraping:**
+- Selenium
+
 **Tools:** 
 - GitHub
 - Jupyter Notebook
@@ -41,6 +44,22 @@ Hey! I’m Jordan. I got into accounting because I liked working with numbers, b
 - Time management
 
 ## Projects
+
+### **MedwithMoni Instagram Analysis**
+**Description:**
+This project involves analyzing Instagram data from scraped reels to assist in determining the optimal times and frequency for posting medical vlogger content.
+
+**Skills/Tools Used:**
+- Python (Selenium, Pandas, Numpy)
+- Jupyter Notebook
+- Data Visualization (Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA)
+- SQL (Excel and database organization)
+
+**GitHub Pages - MedwithMoni EDA**
+- [Data Scraper](https://jledata.github.io/portfolio/MedwithMoni/webscrapper/ig_medical_user_scraper.html)
+- [EDA](https://jledata.github.io/portfolio/MedwithMoni/EDA_IG.html)
+- [Excel Data](https://docs.google.com/spreadsheets/d/1r0Topa9sB_RGpWXUsUuowxJdzTFmMG6_W9nJgYqsK_c/edit?usp=sharing)
 
 ### **Project Dool: OSRS Video Performance Analysis**
 **Description:**
@@ -68,6 +87,19 @@ The insights provided helped the creator refine their content strategy and reach
 **GitHub Pages - Project Dool EDA** 
 - [Summarized EDA](https://jledata.github.io/portfolio/dool_eda/pf_eda.html)
 
+### **Qrow Creations Customized Hitbox**
+**Description:**
+This project is a side hobby of mine where I create DIY projects, specifically fightsticks and hitboxes for fighting games. This is a general overview of my work and how I organize my material sheets for the hobby.
+
+**Skill/Tools Used**
+- Excel
+- Inkscape
+- Xtool Creative Space
+
+**Links to related project**
+- [Excel Spreadsheet](https://docs.google.com/spreadsheets/d/1VcXRh2Ju8HWvoMRSiPDKAWK3b31HKTqHRrthkxEKfQY/edit?usp=sharing)
+- [Hitbox Photos](https://drive.google.com/drive/folders/1Ss0law714LaVBAfewLpOb3oxpfzTE8AN?usp=sharing)
+
 ### **Capstone Project: Employee Turnover Prediction**
 **Description:**  
 This project is part of my Coursera Data Analytics Advanced course capstone, where I focused on predicting employee turnover at Salifort Motors using a dataset provided by Coursera. The goal was to identify patterns and factors that influence whether an employee stays or leaves, enabling the organization to take proactive steps in reducing turnover.
@@ -91,7 +123,7 @@ This project is part of my Coursera Data Analytics Advanced course capstone, whe
 **Description:**
 A fun Tableau project visualizing data from 100 ARAM games in League of Legends. The dataset was collected using the Riot API, and the dashboard showcases key game statistics, champion usage, and performance trends.
 
-**Skill/Tools Used:**
+**Skills/Tools Used:**
 - Python (Riot API)
 - Tableau
 
